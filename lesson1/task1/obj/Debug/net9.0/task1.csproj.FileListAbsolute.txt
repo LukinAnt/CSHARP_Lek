@@ -1,0 +1,14 @@
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/bin/Debug/net9.0/task1
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/bin/Debug/net9.0/task1.deps.json
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/bin/Debug/net9.0/task1.runtimeconfig.json
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/bin/Debug/net9.0/task1.dll
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/bin/Debug/net9.0/task1.pdb
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.dll
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/refint/task1.dll
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.pdb
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/task1.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/01_CSHARP/lesson1/task1/obj/Debug/net9.0/ref/task1.dll
